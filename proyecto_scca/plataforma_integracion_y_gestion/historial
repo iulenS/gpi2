@@ -1,0 +1,315 @@
+    1  29/01/20 11:47:40 exit
+    2  05/02/20 14:11:38 passwd 
+    3  12/02/20 14:11:04 java -version
+    4  12/02/20 14:12:41 cd Descargas/
+    5  12/02/20 14:12:42 ls
+    6  12/02/20 14:13:29 tar -xvf android-studio-ide-191.6010548-linux.tar.gz android-studio/
+    7  12/02/20 14:13:56 ls
+    8  12/02/20 14:13:59 cd android-studio/
+    9  12/02/20 14:14:00 ls
+   10  12/02/20 14:14:07 cat Install-Linux-tar.txt 
+   11  12/02/20 14:14:16 ls
+   12  12/02/20 14:14:30 cd bin/
+   13  12/02/20 14:14:31 ls
+   14  12/02/20 14:14:41 chmod +x studio.sh 
+   15  12/02/20 14:14:45 ./studio.sh 
+   16  12/02/20 14:21:37 +
+   17  12/02/20 14:22:27 cd /etc/
+   18  12/02/20 14:22:28 ls
+   19  12/02/20 14:22:35 cd ..
+   20  12/02/20 14:23:47 version
+   21  12/02/20 14:25:07 cd /home/alumno/.local/share/gvfs-metadata/
+   22  12/02/20 14:25:08 ls
+   23  12/02/20 14:25:15 cat home-16545df3.log 
+   24  12/02/20 14:25:20 ls
+   25  12/02/20 14:25:28 cat home
+   26  12/02/20 14:29:04 cd /home/alumno/Descargas/
+   27  12/02/20 14:29:05 ls
+   28  12/02/20 14:29:07 cd android-studio/
+   29  12/02/20 14:29:11 cd bin/
+   30  12/02/20 14:29:13 ls
+   31  12/02/20 14:31:55 cd ..
+   32  12/02/20 14:31:57 ls
+   33  12/02/20 14:32:03 tar -xvf arduino-1.8.11-linux64.tar.xz 
+   34  12/02/20 14:32:18 ls
+   35  12/02/20 14:32:21 cd arduino-1.8.11/
+   36  12/02/20 14:32:22 ls
+   37  12/02/20 14:32:38 chmod +x install.sh 
+   38  12/02/20 14:32:44 ./install.sh 
+   39  12/02/20 14:33:33 sudo ./install.sh 
+   40  12/02/20 15:19:52 unzip Bare-Arduino-Project-master.zip 
+   41  12/02/20 14:58:51 cd /home/alumno/AndroidStudioProjects/ApplicationA115670/
+   42  12/02/20 14:58:53 ls
+   43  12/02/20 14:59:08 cat settings.gradle 
+   44  12/02/20 14:59:14 cd gradle/
+   45  12/02/20 14:59:15 ls
+   46  12/02/20 14:59:18 cd wrapper/
+   47  12/02/20 14:59:20 ls
+   48  12/02/20 14:59:39 cd ..
+   49  12/02/20 14:59:49 ls
+   50  12/02/20 14:59:53 cd ApplicationA115670/
+   51  12/02/20 14:59:54 ls
+   52  12/02/20 15:00:15 cat gradle.properties 
+   53  12/02/20 15:00:20 ls
+   54  12/02/20 15:00:21 clear
+   55  12/02/20 15:00:22 ls
+   56  12/02/20 15:00:35 ./gradle
+   57  12/02/20 15:00:38 ./gradlew 
+   58  12/02/20 15:02:05 ls
+   59  12/02/20 15:02:11 cat build.gradle 
+   60  12/02/20 15:02:50 cat gradlew.bat 
+   61  12/02/20 15:03:11 cd gradle/wrapper/
+   62  12/02/20 15:03:12 ls
+   63  12/02/20 15:03:19 cat gradle-wrapper.properties 
+   64  12/02/20 15:03:25 clear
+   65  12/02/20 15:03:28 cd ..
+   66  12/02/20 15:03:31 ls
+   67  12/02/20 15:05:35 cd gradle/
+   68  12/02/20 15:05:36 ls
+   69  12/02/20 15:05:38 cd wrapper/
+   70  12/02/20 15:05:40 ls
+   71  12/02/20 15:05:46 cd ..
+   72  12/02/20 15:05:47 cd..
+   73  12/02/20 15:05:50 ls
+   74  12/02/20 15:05:56 cd ..
+   75  12/02/20 15:05:57 ls
+   76  12/02/20 15:07:10 ./gradlew build
+   77  12/02/20 15:08:32 ls
+   78  12/02/20 15:08:40 cd build/
+   79  12/02/20 15:08:41 ls
+   80  12/02/20 15:08:45 cd intermediates/
+   81  12/02/20 15:08:50 ls
+   82  12/02/20 15:12:57 cd ..
+   83  12/02/20 15:12:59 ls
+   84  12/02/20 15:14:27 ./gradlew assembleDebug
+   85  12/02/20 15:15:52 history
+   86  12/02/20 16:11:26 unzip Bare-Arduino-Project-master.zip 
+   87  12/02/20 16:12:32 unzip Arduino-Makefile-8c8ebf71a0b7c7095038eff49153c308daec1ff9.zip 
+   88  12/02/20 15:20:57 ls
+   89  12/02/20 15:21:02 make
+   90  12/02/20 15:21:18 cat Makefile-Linux.mk 
+   91  12/02/20 15:21:44 ls
+   92  12/02/20 15:23:57 chmod +x Makefile-Linux.mk 
+   93  12/02/20 15:24:01 ./Makefile-Linux.mk 
+   94  12/02/20 15:24:09 Makefile-Linux.mk 
+   95  12/02/20 15:24:28 cat Makefile-Linux.mk 
+   96  12/02/20 15:25:46 ls
+   97  12/02/20 15:25:50 cat README.md 
+   98  12/02/20 15:26:18 make
+   99  12/02/20 15:26:20 ls
+  100  12/02/20 15:26:41 make
+  101  12/02/20 15:26:48 sudo make
+  102  12/02/20 15:27:05 cat INSTALL.md 
+  103  12/02/20 15:28:39 ls
+  104  12/02/20 15:28:46 cat Makefile-Linux.mk 
+  105  12/02/20 15:30:33 clear
+  106  12/02/20 15:30:52 cd src/FooProject
+  107  12/02/20 15:31:00 cp ../../Makefile-Linux.mk ./Makefile
+  108  12/02/20 15:32:36 ls
+  109  12/02/20 15:32:38 make
+  110  12/02/20 15:35:21 ls
+  111  12/02/20 15:35:24 make
+  112  12/02/20 15:35:58 clear
+  113  12/02/20 15:36:25 make
+  114  12/02/20 15:40:36 clear
+  115  12/02/20 15:40:44 make
+  116  12/02/20 15:50:34 clear
+  117  12/02/20 15:50:35 make
+  118  12/02/20 15:52:00 cat ../../Makefile-CI.mk 
+  119  12/02/20 16:13:15 make
+  120  12/02/20 16:13:32 ls
+  121  12/02/20 16:13:36 cat Makefile 
+  122  12/02/20 16:13:40 ls
+  123  12/02/20 16:13:43 make
+  124  12/02/20 16:15:02 ls
+  125  12/02/20 16:15:09 make
+  126  12/02/20 16:21:28 make
+  127  12/02/20 16:24:50 ls /home/alumno/Descargas/arduino-1.8.11/arduino
+  128  12/02/20 16:24:54 ls /home/alumno/Descargas/arduino-1.8.11
+  129  12/02/20 16:27:07 make
+  130  12/02/20 16:29:51 clear
+  131  12/02/20 16:29:52 make
+  132  12/02/20 16:36:12 cd ..
+  133  12/02/20 16:36:13 ls
+  134  12/02/20 16:36:14 cd ..
+  135  12/02/20 16:36:15 cd..
+  136  12/02/20 16:36:16 ls
+  137  12/02/20 16:36:18 cd ..
+  138  12/02/20 16:36:18 ls
+  139  12/02/20 16:36:46 sudo cp arduino-1.8.11 /usr/share/
+  140  12/02/20 16:37:02 sudo cp -r  arduino-1.8.11 /usr/share/
+  141  12/02/20 16:37:13 ls /usr/share/
+  142  12/02/20 16:37:18 ls /usr/share/arduino-1.8.11/
+  143  12/02/20 16:37:24 clear
+  144  12/02/20 16:37:39 cd Bare-Arduino-Project-master/
+  145  12/02/20 16:37:49 cd src/FooProject/
+  146  12/02/20 16:37:50 ls
+  147  12/02/20 16:37:52 make
+  148  12/02/20 16:44:25 sudo apt-get install gcc-avr binutils avr-libc avrdude
+  149  12/02/20 16:44:40 make
+  150  12/02/20 16:45:53 sudo apt-get install libreoffice
+  151  12/02/20 16:48:20 cd /home/alumno/Escritorio/
+  152  12/02/20 16:48:20 ls
+  153  12/02/20 16:48:44 history
+  154  12/02/20 17:01:03 history > historial
+  155  12/02/20 17:01:06 cat historial 
+  156  19/02/20 08:53:31 ls
+  157  19/02/20 08:53:34 exit
+  158  19/02/20 14:02:20 clear
+  159  19/02/20 14:04:36 sudo apt-get install ant
+  160  19/02/20 14:04:59 sudo -i
+  161  19/02/20 14:05:27 clear
+  162  19/02/20 14:06:57 sudo apt-get install ant
+  163  19/02/20 14:07:31 sudo apt-get install maven
+  164  19/02/20 14:12:08 mvn
+  165  19/02/20 14:25:24 ping google.es
+  166  19/02/20 14:25:32 ping google.com
+  167  19/02/20 14:27:34 cd Escritorio/
+  168  19/02/20 14:27:59 mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=es.unavarra.gpi2 -DartifactId=simple
+  169  19/02/20 14:31:57 ls
+  170  19/02/20 14:32:03 cd simple/
+  171  19/02/20 14:32:04 ls
+  172  19/02/20 14:32:19 gedit pom.xml &
+  173  19/02/20 14:32:35 nano pom.xml 
+  174  19/02/20 14:36:18 cd ..
+  175  19/02/20 14:39:57 mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=es.unavarra.gpi2 -DartifactId=simple-webapp
+  176  19/02/20 14:40:06 ls
+  177  19/02/20 14:44:54 geany build.xml
+  178  19/02/20 14:47:45 cat build.xml 
+  179  19/02/20 14:47:53 ant compile 
+  180  19/02/20 14:49:02 geany build.xml &
+  181  19/02/20 14:54:18 ls simple/src/test/java/es/unavarra/gpi2/AppTest.java 
+  182  19/02/20 14:54:26 cat simple/src/test/java/es/unavarra/gpi2/AppTest.java 
+  183  19/02/20 14:54:52 ls simple/src/main/java/es/unavarra/gpi2/App.java 
+  184  19/02/20 14:54:59 cat simple/src/main/java/es/unavarra/gpi2/App.java 
+  185  19/02/20 14:55:16 ls simple/build/classes/
+  186  19/02/20 14:55:28 ls simple/build/classes
+  187  19/02/20 14:56:58 ant compile 
+  188  19/02/20 14:58:37 ls
+  189  19/02/20 14:59:23 cd simple
+  190  19/02/20 14:59:23 ls
+  191  19/02/20 14:59:25 cd build/
+  192  19/02/20 14:59:26 ls
+  193  19/02/20 14:59:30 cd classes/es/unavarra/gpi2/
+  194  19/02/20 14:59:31 ls
+  195  19/02/20 14:59:43 cd /home/alumno/Escritorio/
+  196  19/02/20 14:59:44 ls
+  197  19/02/20 15:00:05 ant jar
+  198  19/02/20 15:00:20 ls
+  199  19/02/20 15:00:46 ant run
+  200  19/02/20 15:01:40 ls
+  201  19/02/20 15:01:45 cd simple
+  202  19/02/20 15:01:46 ls
+  203  19/02/20 15:01:51 rm -rf build/
+  204  19/02/20 15:01:53 cd ..
+  205  19/02/20 15:01:57 ant compile
+  206  19/02/20 15:02:12 ant jar
+  207  19/02/20 15:02:18 ant run
+  208  19/02/20 15:03:56 cd simple
+  209  19/02/20 15:04:00 rm -rf build/
+  210  19/02/20 15:04:01 ls
+  211  19/02/20 15:04:02 cd ..
+  212  19/02/20 15:04:07 ant compile 
+  213  19/02/20 15:04:10 ant jar
+  214  19/02/20 15:04:14 ant compile 
+  215  19/02/20 15:04:25 ant jar
+  216  19/02/20 15:04:28 ant run
+  217  19/02/20 15:08:45 ls
+  218  19/02/20 15:12:01 git init 
+  219  19/02/20 15:12:13 git clone https://github.com/iulenS/gpi2.git
+  220  19/02/20 15:12:18 ls
+  221  19/02/20 15:12:27 cd gpi2/
+  222  19/02/20 15:12:28 ls
+  223  19/02/20 15:12:33 cat README.md 
+  224  19/02/20 15:12:36 ls
+  225  19/02/20 15:12:44 cd ..
+  226  19/02/20 15:12:46 ls
+  227  19/02/20 15:13:03 mv simple gpi2/
+  228  19/02/20 15:13:05 ls
+  229  19/02/20 15:13:10 mv simple-webapp/ gpi2/
+  230  19/02/20 15:13:20 mv build.xml gpi2/
+  231  19/02/20 15:13:21 ls
+  232  19/02/20 15:13:24 cd gpi2/
+  233  19/02/20 15:13:25 ls
+  234  19/02/20 15:14:06 git status 
+  235  19/02/20 15:15:00 mv simple ../
+  236  19/02/20 15:15:04 mv simple-webapp/ ../
+  237  19/02/20 15:15:10 mv build.xml ../
+  238  19/02/20 15:15:11 ls
+  239  19/02/20 15:15:15 git status 
+  240  19/02/20 15:15:18 cd ..
+  241  19/02/20 15:15:19 ls
+  242  19/02/20 15:18:20 cd gpi2/
+  243  19/02/20 15:18:20 ls
+  244  19/02/20 15:19:34 mkdir proyecto_scca
+  245  19/02/20 15:19:48 cd proyecto_scca/
+  246  19/02/20 15:19:49 ls
+  247  19/02/20 15:20:10 mkdir app_android
+  248  19/02/20 15:21:22 mkdir plataforma_integracion_y_gestion
+  249  19/02/20 15:21:57 mkdir sistema_publicacion_datos
+  250  19/02/20 15:21:59 ls
+  251  19/02/20 15:23:40 mkdir sensores
+  252  19/02/20 15:23:45 ls
+  253  19/02/20 15:28:03 git status 
+  254  19/02/20 15:28:04 cd ..
+  255  19/02/20 15:28:07 git status 
+  256  19/02/20 15:28:10 cd ..
+  257  19/02/20 15:28:13 git status 
+  258  19/02/20 15:28:18 git add .
+  259  19/02/20 15:28:37 ls
+  260  19/02/20 15:28:40 cd gpi2/
+  261  19/02/20 15:28:41 ls
+  262  19/02/20 15:28:43 git status 
+  263  19/02/20 15:28:54 git add .
+  264  19/02/20 15:29:41 git commit -m "Aplicando gestion de configuracion continua"
+  265  19/02/20 15:30:03 git config --global user.name "Iulen"
+  266  19/02/20 15:30:25 git config --global user.email "salinas.115670@e.unavarra.es"
+  267  19/02/20 15:30:27 git commit -m "Aplicando gestion de configuracion continua"
+  268  19/02/20 15:30:32 git push 
+  269  24/02/20 16:25:49 cd Escritorio/
+  270  24/02/20 16:25:57 history > historial_bash
+  271  24/02/20 16:09:56 cd Escritorio/gpi2/
+  272  24/02/20 16:09:57 ls
+  273  24/02/20 16:10:01 git status 
+  274  24/02/20 16:10:22 ls /home/alumno/Descargas/
+  275  24/02/20 16:10:51 libreoffice /home/alumno/Descargas/3_practica_build2.odt &
+  276  24/02/20 16:12:44 ls
+  277  24/02/20 16:15:14 cd ..
+  278  24/02/20 16:15:15 ls
+  279  24/02/20 16:16:02 mkdir repo_local & nano repo_local/index.html
+  280  24/02/20 16:16:26 ls repo_local/
+  281  24/02/20 16:16:40 rm -rf repo_local/
+  282  24/02/20 16:16:43 clear
+  283  24/02/20 16:16:52 mkdir repo_local & touch repo_local/index.html
+  284  24/02/20 16:16:57 cd repo_local/
+  285  24/02/20 16:17:07 git init
+  286  24/02/20 16:17:18 git add .
+  287  24/02/20 16:17:36 git commit -m "Creado fichero html"
+  288  24/02/20 16:17:47 git branch req001
+  289  24/02/20 16:17:52 git checkout req001 
+  290  24/02/20 16:17:58 nano index.html 
+  291  24/02/20 16:19:22 git add .
+  292  24/02/20 16:19:42 git commit -m "Modificado fichero index.html"
+  293  24/02/20 16:20:38 git checkout master 
+  294  24/02/20 16:21:17 git branch hotfix
+  295  24/02/20 16:21:24 git checkout hotfix 
+  296  24/02/20 16:21:28 nano index.html 
+  297  24/02/20 16:21:57 git add .
+  298  24/02/20 16:22:06 git commit -m "Modificado fichero index.html"
+  299  24/02/20 16:22:19 git checkout master 
+  300  24/02/20 16:22:33 git merge hotfix 
+  301  24/02/20 16:23:10 git branch -d hotfix 
+  302  24/02/20 16:23:21 git checkout req001 
+  303  04/03/20 14:28:26 cp /home/alumno/Descargas/spotbugs-master.zip /home/alumno/Escritorio/gpi2/proyecto_scca/plataforma_integracion_y_gestion/simple/
+  304  04/03/20 14:28:32 cd /home/alumno/Escritorio/gpi2/proyecto_scca/plataforma_integracion_y_gestion/simple/
+  305  04/03/20 14:28:36 ls
+  306  04/03/20 14:28:45 unzip spotbugs-master.zip 
+  307  04/03/20 14:28:47 ls
+  308  04/03/20 14:32:17 cat pom.xml | head
+  309  04/03/20 14:32:25 nano pom.xml 
+  310  04/03/20 14:32:31 ls
+  311  04/03/20 14:32:33 cd ..
+  312  04/03/20 14:32:34 ls
+  313  04/03/20 14:32:36 nano build.xml 
+  314  04/03/20 14:32:47 ls
+  315  04/03/20 14:33:45 history > historial
