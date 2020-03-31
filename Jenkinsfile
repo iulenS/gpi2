@@ -1,7 +1,7 @@
 pipeline {
     stages {
         stage('git') {
-	    steps {  sh ' git clone https://github.com/iulenS/gpi2' }
+	    steps { sh 'git clone https://github.com/iulenS/gpi2' }
         }
         stage('Build') {
 	    steps {
