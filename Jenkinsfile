@@ -14,7 +14,7 @@ pipeline {
 		    sh 'mvn verify'
 		}
 		echo 'Compilando Android...'
-	        dir('app_android/ApplicationA115670'){
+	        dir('proyecto_scca/app_android/ApplicationA115670'){
 		    sh './gradlew tasks'
 		    sh './gradlew check'
 		}
