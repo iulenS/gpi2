@@ -15,8 +15,7 @@ pipeline {
 		}
 		echo 'Compilando Android...'
 	        dir('proyecto_scca/app_android/ApplicationA115670'){
-		    sh './gradlew tasks'
-		    sh './gradlew check'
+		    sh './gradlew'
 		}
 	        echo 'Compilando Arduino...'
 		dir('proyecto_scca/sensores/FooProject'){
